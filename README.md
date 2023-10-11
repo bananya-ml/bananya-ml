@@ -8,7 +8,7 @@
   I'm Ananya, a 23 year old postgraduate data focused engineer/physicist from India 🇮🇳
 </p>
 <p align="center">
-  📖 I am a machine learning academic who is also MLOps trained
+  📖 A machine learning academic who is also MLOps trained
 </p>
 <p align="center">
   🪈 Working on data processing pipelines - 🎧 Casual tryhard - ✨ Star enthusiast
