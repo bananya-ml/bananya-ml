@@ -5,7 +5,7 @@
 <h1 align="center">Hello - Namaste - Welcome to my profile!</h1>
 
 <p align="center">
-  I'm Ananya, a 23 year old postgraduate data focused engineer/physicist from India 🇮🇳
+  I'm Ananya, a 24 year old postgraduate data focused engineer/physicist from India 🇮🇳
 </p>
 <p align="center">
   📖 A machine learning academic who is also MLOps trained
