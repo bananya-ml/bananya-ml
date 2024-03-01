@@ -5,13 +5,13 @@
 <h1 align="center">Hello - Namaste - Welcome to my profile!</h1>
 
 <p align="center">
-  I'm Ananya, a 24 year old postgraduate data focused engineer/physicist from India 🇮🇳
+  I'm Ananya, a 24 year old data focused engineer/astrophysicist from India 🇮🇳
 </p>
 <p align="center">
-  📖 A machine learning academic who is also MLOps trained
+  📖 A machine learning academic who is MLOps trained
 </p>
 <p align="center">
-  🪈 Working on data processing pipelines - 🎧 Casual tryhard - ✨ Star enthusiast
+  🪈 Working on data processing techniques, GenAI possibilites and integrations withing science - 🎧 Casual tryhard - ✨ Star enthusiast
 </p>
 
 <br />
