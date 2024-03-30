@@ -11,7 +11,7 @@
   📖 A machine learning academic who is MLOps trained
 </p>
 <p align="center">
-  🪈 Working on data processing techniques, GenAI possibilites and integrations withing science - 🎧 Casual tryhard - ✨ Star enthusiast
+  🪈 Working on data processing techniques, GenAI possibilites and integrations within science - 🎧 Casual tryhard - ✨ Star enthusiast
 </p>
 
 <br />
