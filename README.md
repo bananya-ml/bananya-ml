@@ -8,10 +8,10 @@
   I'm Ananya, a 24 year old data focused engineer/astrophysicist from India 🇮🇳
 </p>
 <p align="center">
-  📖 A machine learning academic who is MLOps trained
+  📖 A machine learning academic who also enjoys frontend development.
 </p>
 <p align="center">
-  🪈 Working on data processing techniques, GenAI possibilites and integrations within science - 🎧 Casual tryhard - ✨ Star enthusiast
+  🪈 Researching data processing techniques and deep learning integrations within astronomy - 🎧 Casual tryhard - ✨ Star enthusiast
 </p>
 
 <br />
