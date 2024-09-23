@@ -8,7 +8,7 @@
   I'm Ananya, a 24 year old data focused engineer/astrophysicist from India 🇮🇳
 </p>
 <p align="center">
-  📖 A machine learning academic who also enjoys frontend development.
+  📖 A machine learning and astronomy academic who also enjoys frontend development.
 </p>
 <p align="center">
   🪈 Working as an ML engineer building LLM-based products - 🎧 Casual tryhard - ✨ Star enthusiast
