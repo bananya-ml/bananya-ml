@@ -11,7 +11,7 @@
   📖 A machine learning academic who also enjoys frontend development.
 </p>
 <p align="center">
-  🪈 Researching data processing techniques and deep learning integrations within astronomy - 🎧 Casual tryhard - ✨ Star enthusiast
+  🪈 Working as an ML engineer building LLM-based products - 🎧 Casual tryhard - ✨ Star enthusiast
 </p>
 
 <br />
